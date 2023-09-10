@@ -1,0 +1,226 @@
+.content {
+    background-color: black;
+    margin-bottom: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.content-nav{
+    display: flex;
+}
+
+.content-ul {
+    list-style: none;
+    padding-left: 0px;
+}
+.content-li {
+    display: inline;
+    margin-right: 20px;
+    align-items: center;
+}
+.content-link {
+    text-decoration: none;
+    color: white;
+}
+
+.content-header {
+    font-family: system-ui, sans-serif;
+    color: silver;
+    display: flex;
+    flex-direction: column;
+    text-decoration-line: overline;
+    text-decoration-color: rgb(47, 47, 56);
+    text-decoration-style: double;
+    text-decoration-thickness: 2px;
+    background-color: rgb(15, 23, 54);
+    align-items: center;
+}
+
+.content-main {
+    font-family: serif, sans-serif;
+    color: whitesmoke;
+    font-size:xx-large;
+    text-align: left;
+    margin-left: 10%;
+    text-shadow: 2px 2px 5px #545454;
+}
+
+.conteiner {
+    display: flex;
+    margin-left: 10%;
+}
+.bigbang {
+    max-width: 100%;
+    border-radius: 16px;
+}
+.texto-1 {
+    color: aliceblue;
+    padding-left: 30px;
+    padding-right: 10%;
+}
+
+.galaxia {
+    max-width: 100%;
+    border-radius: 16px;
+}
+
+.cards {
+    display: flex;
+}
+.card {
+    width: 250px; /* Largura dos cartões */
+    border: 1px solid rgb(10, 17, 43); /* Borda dos cartões */
+    padding: 10px; /* Espaçamento interno dos cartões */
+    float:left; /* Faz os cartões ficarem lado a lado */
+    color: white;
+    border-radius: 16px;
+    margin-left: 11%;
+    margin-top: 30px;
+    background-color:rgb(10, 17, 43);
+    box-shadow: 3px 3px 7px silver;
+    max-width: 100%;
+}
+.letra {
+    text-decoration-line: underline;
+    text-decoration-color: white;
+    padding-right: 10px;
+}
+
+.sistema {
+    max-width: 100%;
+    margin-top: 30px;
+}
+.sistema-letra {
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 5px blue;
+    color: rgb(250, 209, 125);
+    font-size: 4.0em;
+    padding-left: 30px;
+    margin-bottom: 0px;
+}
+.texto-2 {
+    color: aliceblue;
+    padding-right: 10%;
+}
+
+
+.sol {
+    max-width: 100%;
+    margin-top: 40px;
+
+}
+
+.letra-sol {
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 5px red;
+    color: rgb(147, 42, 8);
+    font-size: 4.0em;
+    padding-left: 30px;
+    margin-bottom: 0px;
+}
+
+.terra-letra {
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 5px blue;
+    color: rgb(34, 75, 34);
+    font-size: 4.0em;
+    padding-left: 30px;
+    margin-bottom: 0px;
+}
+.terra {
+    max-width: 100%;
+    margin-top: 30px;
+
+}
+.terra-texto {
+    color: aliceblue;
+    padding-right: 10%;
+    margin-top: 10px;
+}
+
+.lua {
+    max-width: 100%;
+    margin-top: 120px;
+}
+.letra-lua { text-decoration-line: underline;
+    text-shadow: 2px 2px 5px gray;
+    color: #333;
+    font-size: 4.0em;
+    padding-left: 30px;
+    margin-bottom: 0px;
+
+}
+.texto-lua {
+    color: aliceblue;
+    padding-right: 10%;
+}
+
+.card-gravidade {
+    max-width: 100%;
+    border: 1px solid rgb(10, 17, 43); /* Borda dos cartões */
+    color: white;
+    border-radius: 16px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:rgb(10, 17, 43);
+    box-shadow: 3px 3px 7px silver;
+}
+.malha {
+    max-width: 100%;
+    width: 200px;
+    border-radius: 16px;
+    margin-left: 30px;
+}
+
+
+.pergunta {
+    display: flex;
+    flex-direction: column;
+}
+.pergunta-1 {
+    color: aliceblue;
+    margin-left: 10%;
+}
+.videos {
+    max-width: 100%;
+    display: flex;
+    margin-left: 10%;  
+}
+.atomo {
+    width: 200px;
+    height: auto;
+}
+
+.referencias {
+    color: #fff;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.sobre1{
+    color: aliceblue;
+    margin-left: 12%;
+}
+.sobre2 {
+    font-family: 'Times New Roman', sans-serif;
+    color: aliceblue;
+    margin-left: 12%;
+    margin-right: 12%;
+    align-self: center;
+}
+
+.content-footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color:rgb(10, 17, 43);
+    color: #fff;
+}
+    
+
+
+    
+    
+
